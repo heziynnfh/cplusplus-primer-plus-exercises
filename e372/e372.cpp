@@ -27,14 +27,13 @@ int main()
     std::cout << "inch: ";
     std::cin >> height_in_less_inch;
     std::cout << "Enter your weight in pound: " << std::endl;
-    std::cin >> height_in_less_inch;
+    std::cin >> weight_in_pound;
 
-    myFunction1(height);
 
     return 0;
 }
 
-// 123
+// 加油呀
 void myFunction1(int inch)
 {
     std::cout << "your height is " << inch / 12;
