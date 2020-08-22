@@ -1,0 +1,15 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/cplusplus-primer-plus-exercises/v16
+/x64/Debug
+/e372/x64/Debug
+/e371/x64/Debug
+/e277/x64/Debug
+/e276/x64/Debug
+/e275/x64/Debug
+/e274/x64/Debug
+/e273/x64/Debug
+/e272/x64/Debug
+/e271/x64/Debug
