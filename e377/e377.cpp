@@ -20,7 +20,8 @@ int main()
     cout << "enter the oil waste of your car in eu style: ";
     cin >> waste_in_eu;
 
-    cout << OilWaste_EU_to_US(waste_in_eu);
+    cout << "the oil waste of your car in us style is "  \
+        << OilWaste_EU_to_US(waste_in_eu) << ".";
 
     return 0;
 }
