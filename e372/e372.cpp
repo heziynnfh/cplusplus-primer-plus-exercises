@@ -32,7 +32,7 @@ int main()
 
     return 0;
 }
-// 感谢人民群众的支持
+// 感谢人民群众的支持，非常非常感谢
 void myFunction1(int inch)
 {
     std::cout << "your height is " << inch / 12;
