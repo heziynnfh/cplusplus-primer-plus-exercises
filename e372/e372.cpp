@@ -33,6 +33,7 @@ int main()
     return 0;
 }
 
+// 怎么硕
 void myFunction1(int inch)
 {
     std::cout << "your height is " << inch / 12;
